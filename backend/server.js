@@ -5,6 +5,7 @@ const mysql = require("mysql2/promise");
 const app = express();
 const PORT = process.env.PORT || 3001;
 
+//COMENTARIO PARA PRUEBAS DE GITHUB ACTIONS
 const {
   DB_HOST  , // acá colocar la IP Privada EC2 DB
   DB_USER  ,

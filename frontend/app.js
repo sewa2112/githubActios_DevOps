@@ -6,7 +6,7 @@
 // frontend/app.js
 
 const API_BASE = "/api/productos";
-
+//aaaaaaa
 // Ejemplo: const API_BASE = "http://10.0.2.30:3001/api/productos";
 
 
